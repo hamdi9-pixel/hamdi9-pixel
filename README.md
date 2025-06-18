@@ -10,4 +10,4 @@
 - Strong knowledge Graphics Programming 2D 
 - programming cnc whith c# and arduino
   link cnc :https://www.youtube.com/watch?v=tGLSGTuWxD4&ab_channel=TijaTdjani
--Mail : hamdisaighi9@gmail.com
+- Mail : hamdisaighi9@gmail.com
