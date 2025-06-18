@@ -1,8 +1,14 @@
    Hi there 👋
--  I’m programmer of computer 
--  I’m using c++,c#,pascal,python,sql ,data bases
--  I programming cnc whith c# and arduino
--  link cnc :https://www.youtube.com/watch?v=tGLSGTuWxD4&ab_channel=TijaTdjani
--  now i am using python to programming cnc
--  i create data base whith vb2022 c#  and delphi pascal
--  mail:hamdisaighi9@gmail.com
+-Strong knowledge  microcontrollers programming (Arduino )
+-Strong knowledge OOP 
+-Strong knowledge Pascal programming (Delphi xe8 and Up )
+-Strong knowledge Database programming(Ms Access , SQL lite , SQL server)
+-Strong knowledge of relational databases
+-Strong knowledge of Structural Query Language (SQL)  
+-Strong knowledge C# and C++ programming (Visual Studio 2022)
+-Strong knowledge of Python Programming 
+-Strong knowledge Graphics Programming 2D 
+-programming cnc whith c# and arduino
+  link cnc :https://www.youtube.com/watch?v=tGLSGTuWxD4&ab_channel=TijaTdjani
+
+-Mail : hamdisaighi9@gmail.com
